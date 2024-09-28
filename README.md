@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @CoderApuri
-- 👀 I’m interested in ... stuff
-- 🌱 I’m currently learning ... stuff
-- 💞️ I’m looking to collaborate on ... stuff
-- 📫 How to reach me ... you cannot
+- 👀 I’m interested in ... technology
+- 🌱 I’m currently learning ... Java
+- 💞️ I’m looking to collaborate on ... Intermediate-Level Java Projects
+- 📫 How to reach me ... puri.aarav@gmail.com
 <!---
 
 --->
